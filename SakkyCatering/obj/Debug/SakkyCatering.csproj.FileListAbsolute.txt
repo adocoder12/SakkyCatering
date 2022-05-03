@@ -1,0 +1,106 @@
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\bin\Debug\SakkyCatering.exe.config
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\bin\Debug\SakkyCatering.exe
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\bin\Debug\SakkyCatering.pdb
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.csprojResolveAssemblyReference.cache
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Properties.Resources.resources
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.csproj.GenerateResource.Cache
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.exe
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.pdb
+c:\users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Presidentikatu.resources
+C:\Users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.desktop.resources
+C:\Users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Sammakkolammentie.resources
+C:\Users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Suvilahti.resources
+C:\Users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Toivola.resources
+C:\Users\adonay.dagostolonga\documents\visual studio 2015\Projects\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Varkaus.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\bin\Debug\SakkyCatering.exe.config
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.exe
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\bin\Debug\SakkyCatering.exe
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\bin\Debug\SakkyCatering.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.csprojResolveAssemblyReference.cache
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Desktop.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Presidentikatu.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Properties.Resources.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Sammakkolammentie.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Suvilahti.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Toivola.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.Varkaus.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering\SakkyCatering\obj\Debug\SakkyCatering.csproj.GenerateResource.Cache
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\SakkyCatering.exe.config
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.exe
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.csprojResolveAssemblyReference.cache
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.Desktop.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.Presidentikatu.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.Properties.Resources.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.Sammakkolammentie.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.Suvilahti.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.Toivola.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.Varkaus.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\obj\Debug\SakkyCatering.csproj.GenerateResource.Cache
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\SakkyCatering.exe
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\SakkyCatering.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\MySqlConnector.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Buffers.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Memory.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\MySqlConnector.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Buffers.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Memory.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\MaterialSkin.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering-practica\SakkyCatering\bin\Debug\MySql.Data.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\SakkyCatering.exe.config
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.exe
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\SakkyCatering.exe
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\SakkyCatering.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\MaterialSkin.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\MySql.Data.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\MySqlConnector.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Buffers.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Memory.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\MySqlConnector.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Buffers.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Memory.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.Desktop.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.Properties.Resources.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.Sammakkolammentie.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.Suvilahti.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.Toivola.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.Varkaus.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.csproj.GenerateResource.Cache
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.csprojResolveAssemblyReference.cache
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.taulutYhdessä.resources
+C:\Users\adonay.dagostolonga\Desktop\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.Kampukset.resources
+C:\Users\adona\Downloads\SakkyCatering_Vol1\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.csproj.AssemblyReference.cache
+C:\Users\adona\Downloads\SakkyCatering_Vol1\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.exe
+C:\Users\adona\Downloads\SakkyCatering_Vol1\SakkyCatering_Vol1\SakkyCatering\obj\Debug\SakkyCatering.pdb
